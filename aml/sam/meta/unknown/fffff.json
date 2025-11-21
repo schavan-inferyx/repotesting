@@ -1,0 +1,108 @@
+{
+  "uuid": "226436e8-5d61-44b3-a18f-c3cc2fb75790",
+  "version": "1763732380003",
+  "name": "fffff",
+  "displayName": "fffff",
+  "desc": null,
+  "createdBy": {
+    "ref": {
+      "type": "user",
+      "uuid": "d04716df-e96a-419f-9118-c81342b47f85",
+      "version": null,
+      "name": null,
+      "displayName": null,
+      "status": null
+    },
+    "value": null
+  },
+  "createdOn": "Fri Nov 21 19:09:40 IST 2025",
+  "tags": [],
+  "active": "Y",
+  "locked": "N",
+  "published": "N",
+  "appInfo": [
+    {
+      "ref": {
+        "type": "application",
+        "uuid": "d7c11fd7-ec1a-40c7-ba25-7da1e8b730cb",
+        "version": null,
+        "name": null,
+        "displayName": null,
+        "status": null
+      },
+      "value": null
+    }
+  ],
+  "publicFlag": "N",
+  "parentInfo": null,
+  "notifyOn": null,
+  "resource": null,
+  "metaStatus": "VALID",
+  "metaType": null,
+  "createdDuration": null,
+  "updatedBy": {
+    "ref": {
+      "type": "user",
+      "uuid": "d04716df-e96a-419f-9118-c81342b47f85",
+      "version": null,
+      "name": null,
+      "displayName": null,
+      "status": null
+    },
+    "value": null
+  },
+  "updatedOn": "Fri Nov 21 19:09:40 IST 2025",
+  "ownedBy": {
+    "ref": {
+      "type": "application",
+      "uuid": "d7c11fd7-ec1a-40c7-ba25-7da1e8b730cb",
+      "version": null,
+      "name": null,
+      "displayName": null,
+      "status": null
+    },
+    "value": null
+  },
+  "categoryInfo": null,
+  "scope": null,
+  "relVersion": "6.5.9",
+  "hostName": null,
+  "orgInfo": {
+    "ref": {
+      "type": "organization",
+      "uuid": "39937670-837c-4027-aa45-aff8a57b738a",
+      "version": null,
+      "name": null,
+      "displayName": null,
+      "status": null
+    },
+    "value": null
+  },
+  "accInfo": {
+    "ref": {
+      "type": "account",
+      "uuid": "162ab27e-3931-4fb0-8b6e-e7eb1357df2d",
+      "version": null,
+      "name": null,
+      "displayName": null,
+      "status": null
+    },
+    "value": null
+  },
+  "dependsOn": {
+    "ref": {
+      "type": "datasource",
+      "uuid": "02930710-6330-4395-be06-f6baefa9dc83",
+      "version": null,
+      "name": null,
+      "displayName": null,
+      "status": null
+    },
+    "value": null
+  },
+  "crawlerMode": "APPEND",
+  "nextRunTime": null,
+  "runFrequency": null,
+  "tablePattern": null,
+  "refreshStats": null
+}

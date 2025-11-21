@@ -1,0 +1,260 @@
+{
+  "uuid": "6e1602ed-4760-4b9f-8849-c70c178d8f30",
+  "version": "1761225605176",
+  "name": "ppl_generate_meta_description",
+  "displayName": "ppl_generate_meta_description",
+  "desc": null,
+  "createdBy": {
+    "ref": {
+      "type": "user",
+      "uuid": "d04716df-e96a-419f-9118-c81342b47f85",
+      "version": null,
+      "name": "sys_admin",
+      "displayName": null,
+      "status": null
+    },
+    "value": null
+  },
+  "createdOn": "Thu Oct 23 01:41:49 IST 2025",
+  "tags": [],
+  "active": "Y",
+  "locked": "N",
+  "published": "N",
+  "appInfo": [
+    {
+      "ref": {
+        "type": "application",
+        "uuid": "d7c11fd7-ec1a-40c7-ba25-7da1e8b730cb",
+        "version": "1726839653933",
+        "name": null,
+        "displayName": null,
+        "status": null
+      },
+      "value": null
+    }
+  ],
+  "publicFlag": "N",
+  "parentInfo": null,
+  "notifyOn": null,
+  "resource": null,
+  "metaStatus": "VALID",
+  "metaType": "dag",
+  "createdDuration": null,
+  "updatedBy": {
+    "ref": {
+      "type": "user",
+      "uuid": "d04716df-e96a-419f-9118-c81342b47f85",
+      "version": null,
+      "name": "sys_admin",
+      "displayName": null,
+      "status": null
+    },
+    "value": null
+  },
+  "updatedOn": "Thu Oct 23 18:50:05 IST 2025",
+  "ownedBy": {
+    "ref": {
+      "type": "application",
+      "uuid": "d7c11fd7-ec1a-40c7-ba25-7da1e8b730cb",
+      "version": "1726839653933",
+      "name": null,
+      "displayName": null,
+      "status": null
+    },
+    "value": null
+  },
+  "categoryInfo": null,
+  "scope": null,
+  "relVersion": "6.5.9",
+  "hostName": null,
+  "orgInfo": {
+    "ref": {
+      "type": "organization",
+      "uuid": "39937670-837c-4027-aa45-aff8a57b738a",
+      "version": null,
+      "name": "Inferyx Inc",
+      "displayName": "Inferyx Inc",
+      "status": null
+    },
+    "value": null
+  },
+  "accInfo": {
+    "ref": {
+      "type": "account",
+      "uuid": "162ab27e-3931-4fb0-8b6e-e7eb1357df2d",
+      "version": null,
+      "name": null,
+      "displayName": null,
+      "status": null
+    },
+    "value": null
+  },
+  "xPos": 30.0,
+  "yPos": 250.0,
+  "templateFlg": "N",
+  "templateInfo": null,
+  "stages": [
+    {
+      "stageId": "stage_0",
+      "dependsOn": [],
+      "startConditionHolder": null,
+      "tasks": [
+        {
+          "taskId": "202e93f4-b511-4e50-9876-0898c8f9953f",
+          "dependsOn": [],
+          "name": "Generate Meta Description",
+          "operators": [
+            {
+              "operatorId": null,
+              "dependsOn": [],
+              "operatorType": null,
+              "operatorInfo": [
+                {
+                  "ref": {
+                    "type": "operator",
+                    "uuid": "03dd3723-1e5a-4eea-ad6b-cc5b935d39a0",
+                    "version": null,
+                    "name": "Generate Meta Description",
+                    "displayName": "Generate Meta Description",
+                    "status": null
+                  },
+                  "value": null
+                }
+              ],
+              "operatorParams": {
+                "EXEC_PARAMS": {
+                  "paramListInfo": [
+                    {
+                      "paramId": "0",
+                      "paramType": "string",
+                      "ref": {
+                        "type": "paramlist",
+                        "uuid": "4f09b372-f9d0-4437-b0ac-affd019dc82a",
+                        "displayName": null,
+                        "status": null
+                      },
+                      "paramValue": {
+                        "ref": {
+                          "type": "simple"
+                        },
+                        "value": "98.84.242.236"
+                      }
+                    },
+                    {
+                      "paramId": "1",
+                      "paramType": "integer",
+                      "ref": {
+                        "type": "paramlist",
+                        "uuid": "4f09b372-f9d0-4437-b0ac-affd019dc82a",
+                        "displayName": null,
+                        "status": null
+                      },
+                      "paramValue": {
+                        "ref": {
+                          "type": "simple"
+                        },
+                        "value": "443"
+                      }
+                    },
+                    {
+                      "paramId": "2",
+                      "paramType": "string",
+                      "ref": {
+                        "type": "paramlist",
+                        "uuid": "4f09b372-f9d0-4437-b0ac-affd019dc82a",
+                        "displayName": null,
+                        "status": null
+                      },
+                      "paramValue": {
+                        "ref": {
+                          "type": "simple"
+                        },
+                        "value": "True"
+                      }
+                    },
+                    {
+                      "paramId": "3",
+                      "paramType": "string",
+                      "ref": {
+                        "type": "paramlist",
+                        "uuid": "4f09b372-f9d0-4437-b0ac-affd019dc82a",
+                        "displayName": null,
+                        "status": null
+                      },
+                      "paramValue": {
+                        "ref": {
+                          "type": "simple"
+                        },
+                        "value": "WcwSOnkUQzWJyHFBKFxhjVMPCMTsGHs5SVsQNj3E,IeLxiOaA6u53xHVt9d6B1iEpdK3idxlC0Mnaki8c, iF7o7EJydYNzpHSUT6xSVehCjNtk0M1OokEK9u2L"
+                      }
+                    },
+                    {
+                      "paramId": "4",
+                      "paramType": "string",
+                      "ref": {
+                        "type": "paramlist",
+                        "uuid": "4f09b372-f9d0-4437-b0ac-affd019dc82a",
+                        "displayName": null,
+                        "status": null
+                      },
+                      "paramValue": {
+                        "ref": {
+                          "type": "simple"
+                        },
+                        "value": "datapod"
+                      }
+                    },
+                    {
+                      "paramId": "5",
+                      "paramType": "string",
+                      "ref": {
+                        "type": "paramlist",
+                        "uuid": "4f09b372-f9d0-4437-b0ac-affd019dc82a",
+                        "displayName": null,
+                        "status": null
+                      },
+                      "paramValue": {
+                        "ref": {
+                          "type": "simple"
+                        },
+                        "value": "False"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          ],
+          "xPos": 440.0,
+          "yPos": 250.0,
+          "active": "Y",
+          "statusList": [],
+          "resource": null,
+          "startCondition": null,
+          "duration": null,
+          "totalDuration": null,
+          "execDuration": null,
+          "parseDuration": null,
+          "waitDuration": null,
+          "idleDuration": null
+        }
+      ],
+      "name": "new stage",
+      "xPos": 250.0,
+      "yPos": 250.0,
+      "active": "Y",
+      "statusList": [],
+      "duration": null,
+      "totalDuration": null,
+      "execDuration": null,
+      "parseDuration": null,
+      "waitDuration": null,
+      "idleDuration": null
+    }
+  ],
+  "statusList": [],
+  "paramList": null,
+  "senderInfo": null,
+  "runFrequency": null,
+  "notificationInfo": []
+}

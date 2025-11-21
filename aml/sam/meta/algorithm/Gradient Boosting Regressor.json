@@ -1,0 +1,108 @@
+{
+  "uuid": "561a9e52-9d20-44db-8ae1-6d762d612ebd",
+  "version": "1601653254",
+  "name": "Gradient Boosting Regressor",
+  "displayName": "Gradient Boosting Regressor",
+  "desc": null,
+  "createdBy": {
+    "ref": {
+      "type": "user",
+      "uuid": "d04716df-e96a-419f-9118-c81342b47f85",
+      "version": "1582767680",
+      "name": "admin",
+      "displayName": "admin",
+      "status": null
+    },
+    "value": null
+  },
+  "createdOn": "Mon Mar 17 17:31:47 IST 2025",
+  "tags": null,
+  "active": "Y",
+  "locked": "N",
+  "published": "N",
+  "appInfo": [
+    {
+      "ref": {
+        "type": "application",
+        "uuid": "d7c11fd7-ec1a-40c7-ba25-7da1e8b730cb",
+        "version": "1464977196",
+        "name": "Administration",
+        "displayName": "Administration",
+        "status": null
+      },
+      "value": null
+    }
+  ],
+  "publicFlag": "Y",
+  "parentInfo": null,
+  "notifyOn": null,
+  "resource": null,
+  "metaStatus": "VALID",
+  "metaType": "algorithm",
+  "createdDuration": null,
+  "updatedBy": null,
+  "updatedOn": "Mon Mar 17 17:32:09 IST 2025",
+  "ownedBy": null,
+  "categoryInfo": null,
+  "scope": null,
+  "relVersion": "6.5.9",
+  "hostName": null,
+  "orgInfo": {
+    "ref": {
+      "type": "organization",
+      "uuid": "39937670-837c-4027-aa45-aff8a57b738a",
+      "version": null,
+      "name": null,
+      "displayName": null,
+      "status": null
+    },
+    "value": null
+  },
+  "accInfo": {
+    "ref": {
+      "type": "account",
+      "uuid": "162ab27e-3931-4fb0-8b6e-e7eb1357df2d",
+      "version": null,
+      "name": null,
+      "displayName": null,
+      "status": null
+    },
+    "value": null
+  },
+  "type": "REGRESSION",
+  "libraryType": "PYTHON",
+  "trainClass": "GradientBoostingRegressor",
+  "modelClass": null,
+  "summaryMethods": [],
+  "labelRequired": "Y",
+  "returnType": null,
+  "savePmml": "N",
+  "paramListWoH": {
+    "ref": {
+      "type": "paramlist",
+      "uuid": "2ab41733-091d-466b-a146-a27c11cfdb4e",
+      "version": null,
+      "name": "paramlist_gradient_boosting_regressor_woh",
+      "displayName": "paramlist_gradient_boosting_regressor_woh",
+      "status": null
+    },
+    "value": null
+  },
+  "paramListWH": {
+    "ref": {
+      "type": "paramlist",
+      "uuid": "544844e0-c44d-49c8-8f9d-c35e8f168643",
+      "version": null,
+      "name": "paramlist_gradient_boosting_regressor_wh",
+      "displayName": "paramlist_gradient_boosting_regressor_wh",
+      "status": null
+    },
+    "value": null
+  },
+  "customFlag": "Y",
+  "scriptName": "main.py",
+  "featureWtFlag": "N",
+  "samplingFlag": "Y",
+  "trainTestSplit": "Y",
+  "isHyperParams": "Y"
+}

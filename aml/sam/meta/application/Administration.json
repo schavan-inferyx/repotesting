@@ -1,0 +1,337 @@
+{
+  "uuid": "d7c11fd7-ec1a-40c7-ba25-7da1e8b730cb",
+  "version": "1761226733255",
+  "name": "Administration",
+  "displayName": "Administration",
+  "desc": "Platform Administration",
+  "createdBy": {
+    "ref": {
+      "type": "user",
+      "uuid": "d04716df-e96a-419f-9118-c81342b47f85",
+      "version": null,
+      "name": "sys_admin",
+      "displayName": null,
+      "status": null
+    },
+    "value": null
+  },
+  "createdOn": "Thu Oct 23 19:08:53 IST 2025",
+  "tags": [],
+  "active": "Y",
+  "locked": "Y",
+  "published": "N",
+  "appInfo": [
+    {
+      "ref": {
+        "type": "application",
+        "uuid": "d7c11fd7-ec1a-40c7-ba25-7da1e8b730cb",
+        "version": "1726839653933",
+        "name": null,
+        "displayName": null,
+        "status": null
+      },
+      "value": null
+    }
+  ],
+  "publicFlag": "N",
+  "parentInfo": null,
+  "notifyOn": null,
+  "resource": null,
+  "metaStatus": "VALID",
+  "metaType": "application",
+  "createdDuration": null,
+  "updatedBy": {
+    "ref": {
+      "type": "user",
+      "uuid": "d04716df-e96a-419f-9118-c81342b47f85",
+      "version": null,
+      "name": "sys_admin",
+      "displayName": null,
+      "status": null
+    },
+    "value": null
+  },
+  "updatedOn": "Thu Oct 23 19:08:53 IST 2025",
+  "ownedBy": {
+    "ref": {
+      "type": "application",
+      "uuid": "d7c11fd7-ec1a-40c7-ba25-7da1e8b730cb",
+      "version": "1726839653933",
+      "name": null,
+      "displayName": null,
+      "status": null
+    },
+    "value": null
+  },
+  "categoryInfo": null,
+  "scope": null,
+  "relVersion": "6.5.9",
+  "hostName": null,
+  "orgInfo": {
+    "ref": {
+      "type": "organization",
+      "uuid": "39937670-837c-4027-aa45-aff8a57b738a",
+      "version": null,
+      "name": null,
+      "displayName": null,
+      "status": null
+    },
+    "value": null
+  },
+  "accInfo": {
+    "ref": {
+      "type": "account",
+      "uuid": "162ab27e-3931-4fb0-8b6e-e7eb1357df2d",
+      "version": null,
+      "name": null,
+      "displayName": null,
+      "status": null
+    },
+    "value": null
+  },
+  "dataSource": {
+    "ref": {
+      "type": "datasource",
+      "uuid": "02930710-6330-4395-be06-f6baefa9dc83",
+      "version": null,
+      "name": null,
+      "displayName": null,
+      "status": null
+    },
+    "value": null
+  },
+  "paramList": null,
+  "deployPort": "7071",
+  "applicationType": "SYSADMIN",
+  "calendarInfo": null,
+  "moduleInfo": [
+    "DATA_VISUALIZATION",
+    "DATA_INGESTION",
+    "DATA_PROFILING",
+    "DATA_QUALITY",
+    "DATA_PREPARATION",
+    "DATA_RECONCILICATION",
+    "BUSINESS_RULES",
+    "ALERT_GENERATION",
+    "DATA_SCIENCE",
+    "KNOWLEDGE_GRAPH",
+    "WORKFLOW_MANAGER",
+    "DATA_PIPELINE",
+    "BATCH_SCHEDULER",
+    "CASE_MANAGEMENT",
+    "ENTITY_RESOLUTION",
+    "DATA_VAULT",
+    "DATA_ARCHIVING",
+    "LINK_ANALYSIS",
+    "SIMULATION",
+    "WHAT_IF_ANALYSIS"
+  ],
+  "homePage": null,
+  "emailInfo": [
+    "admin@inferyx.com"
+  ],
+  "emailNotify": "N",
+  "reportDataSource": null,
+  "reportingEngineType": "DEFAULT",
+  "currency": "USD",
+  "batchuser": {
+    "ref": {
+      "type": "user",
+      "uuid": "d04716df-e96a-419f-9118-c81342b47f85",
+      "version": null,
+      "name": null,
+      "displayName": null,
+      "status": null
+    },
+    "value": null
+  },
+  "ruleEngineType": null,
+  "applicationIcon": null,
+  "customMenu": [],
+  "applicationMenu": [
+    {
+      "menuId": "1",
+      "name": "Home",
+      "displayName": null,
+      "params": [],
+      "subMenu": [],
+      "icon": "fa-solid fa-house",
+      "type": "default",
+      "active": "Y",
+      "level": "",
+      "url": ""
+    },
+    {
+      "menuId": "2",
+      "name": "Dashboard",
+      "displayName": null,
+      "params": [],
+      "subMenu": [],
+      "icon": "fas fa-th-large",
+      "type": "default",
+      "active": "Y",
+      "level": "",
+      "url": ""
+    },
+    {
+      "menuId": "3",
+      "name": "Reports",
+      "displayName": null,
+      "params": [],
+      "subMenu": [],
+      "icon": "fa-regular fa-newspaper",
+      "type": "default",
+      "active": "Y",
+      "level": "",
+      "url": ""
+    },
+    {
+      "menuId": "4",
+      "name": "Datasets",
+      "displayName": null,
+      "params": [],
+      "subMenu": [],
+      "icon": "fa-solid fa-database",
+      "type": "default",
+      "active": "Y",
+      "level": "",
+      "url": ""
+    },
+    {
+      "menuId": "5",
+      "name": "Rules",
+      "displayName": null,
+      "params": [],
+      "subMenu": [],
+      "icon": "fa-solid fa-businness-time",
+      "type": "default",
+      "active": "Y",
+      "level": "",
+      "url": ""
+    },
+    {
+      "menuId": "6",
+      "name": "Alerts",
+      "displayName": null,
+      "params": [],
+      "subMenu": [],
+      "icon": "fa-solid fa-triangle-exclamation",
+      "type": "default",
+      "active": "Y",
+      "level": "",
+      "url": ""
+    },
+    {
+      "menuId": "7",
+      "name": "Cases",
+      "displayName": null,
+      "params": [],
+      "subMenu": [],
+      "icon": "fas fa-briefcase",
+      "type": "default",
+      "active": "Y",
+      "level": "",
+      "url": ""
+    },
+    {
+      "menuId": "8",
+      "name": "Entities",
+      "displayName": null,
+      "params": [],
+      "subMenu": [],
+      "icon": "fas fa-users",
+      "type": "default",
+      "active": "Y",
+      "level": "",
+      "url": ""
+    },
+    {
+      "menuId": "9",
+      "name": "Link Analysis",
+      "displayName": null,
+      "params": [],
+      "subMenu": [],
+      "icon": "fa-solid fa-share-nodes",
+      "type": "default",
+      "active": "Y",
+      "level": "",
+      "url": ""
+    },
+    {
+      "menuId": "10",
+      "name": "Generative AI",
+      "displayName": null,
+      "params": [],
+      "subMenu": [],
+      "icon": "fa-solid fa-robot",
+      "type": "default",
+      "active": "Y",
+      "level": "",
+      "url": ""
+    },
+    {
+      "menuId": "11",
+      "name": "What-if Analysis",
+      "displayName": null,
+      "params": [],
+      "subMenu": [],
+      "icon": "fa-solid fa-flask",
+      "type": "default",
+      "active": "Y",
+      "level": "",
+      "url": ""
+    },
+    {
+      "menuId": "12",
+      "name": "Simulation",
+      "displayName": null,
+      "params": [],
+      "subMenu": [],
+      "icon": "fa-solid fa-snowflake",
+      "type": "default",
+      "active": "Y",
+      "level": "",
+      "url": ""
+    },
+    {
+      "menuId": "13",
+      "name": "Data Pipeline",
+      "displayName": null,
+      "params": [],
+      "subMenu": [],
+      "icon": "fa fa-random",
+      "type": "default",
+      "active": "Y",
+      "level": "",
+      "url": ""
+    },
+    {
+      "menuId": "14",
+      "name": "Admin",
+      "displayName": null,
+      "params": [],
+      "subMenu": [],
+      "icon": "fa fa-wrench",
+      "type": "default",
+      "active": "Y",
+      "level": "",
+      "url": ""
+    },
+    {
+      "menuId": "15",
+      "name": "E-Charts (Beta)",
+      "displayName": null,
+      "params": [],
+      "subMenu": [],
+      "icon": "fas fa-th-large",
+      "type": "default",
+      "active": "Y",
+      "level": "",
+      "url": ""
+    }
+  ],
+  "appId": "1704562411",
+  "code": "sam",
+  "status": null,
+  "category": "DEFAULT"
+}
