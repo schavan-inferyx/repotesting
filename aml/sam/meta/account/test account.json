@@ -1,0 +1,93 @@
+{
+  "uuid": "85440c97-680e-47ca-86d2-0b6dcd86efcd",
+  "version": "1762857912591",
+  "name": "test account",
+  "displayName": "test account",
+  "desc": "",
+  "createdBy": {
+    "ref": {
+      "type": "user",
+      "uuid": "d04716df-e96a-419f-9118-c81342b47f85",
+      "version": null,
+      "name": null,
+      "displayName": null,
+      "status": null
+    },
+    "value": null
+  },
+  "createdOn": "Tue Nov 11 16:14:36 IST 2025",
+  "tags": [],
+  "active": "Y",
+  "locked": "N",
+  "published": "N",
+  "appInfo": [
+    {
+      "ref": {
+        "type": "application",
+        "uuid": "d7c11fd7-ec1a-40c7-ba25-7da1e8b730cb",
+        "version": null,
+        "name": null,
+        "displayName": null,
+        "status": null
+      },
+      "value": null
+    }
+  ],
+  "publicFlag": "N",
+  "parentInfo": null,
+  "notifyOn": null,
+  "resource": null,
+  "metaStatus": "VALID",
+  "metaType": "account",
+  "createdDuration": null,
+  "updatedBy": {
+    "ref": {
+      "type": "user",
+      "uuid": "d04716df-e96a-419f-9118-c81342b47f85",
+      "version": null,
+      "name": null,
+      "displayName": null,
+      "status": null
+    },
+    "value": null
+  },
+  "updatedOn": "Tue Nov 11 16:15:12 IST 2025",
+  "ownedBy": {
+    "ref": {
+      "type": "application",
+      "uuid": "d7c11fd7-ec1a-40c7-ba25-7da1e8b730cb",
+      "version": null,
+      "name": null,
+      "displayName": null,
+      "status": null
+    },
+    "value": null
+  },
+  "categoryInfo": null,
+  "scope": null,
+  "relVersion": "6.5.9",
+  "hostName": null,
+  "orgInfo": {
+    "ref": {
+      "type": "organization",
+      "uuid": "39937670-837c-4027-aa45-aff8a57b738a",
+      "version": null,
+      "name": null,
+      "displayName": null,
+      "status": null
+    },
+    "value": null
+  },
+  "accInfo": {
+    "ref": {
+      "type": "account",
+      "uuid": "162ab27e-3931-4fb0-8b6e-e7eb1357df2d",
+      "version": null,
+      "name": null,
+      "displayName": null,
+      "status": null
+    },
+    "value": null
+  },
+  "accountId": "1762857912"
+}
